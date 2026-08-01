@@ -3,7 +3,7 @@
 **Name:** EB Fathima Suhana
 **MUID:** fathimasuhana@mulearn
 
-🌐 **Deployment Link:** _(paste your live Streamlit Community Cloud URL here after deploying, see steps below)_
+🌐 **Deployment Link:** [streamlit app](https://customer-churn-predictor---web-app-6mtlmsv2t5xamgotgxqfgd.streamlit.app/)
 
 ## Project Overview
 
